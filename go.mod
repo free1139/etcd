@@ -1,4 +1,4 @@
-module github.com/free1139/etcd
+module github.com/gwaycc/etcd
 
 go 1.16
 
